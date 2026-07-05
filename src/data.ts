@@ -17,9 +17,9 @@ export const profile = {
 }
 
 export const stats = [
-  { value: 5, suffix: '+', label: 'Years Experience' },
-  { value: 60, suffix: '+', label: 'Projects Completed' },
-  { value: 40, suffix: '+', label: 'Happy Clients' },
+  { value: 2, suffix: '+', label: 'Years Experience' },
+  { value: 10, suffix: '+', label: 'Projects Completed' },
+  { value: 3, suffix: '+', label: 'Happy Clients' },
   { value: 100, suffix: '%', label: 'Client Satisfaction' },
 ]
 
@@ -124,20 +124,20 @@ export const testimonials = [
   {
     quote:
       'Dheeraj delivered our platform ahead of schedule with impeccable quality. His attention to detail and problem-solving skills are outstanding — a rare full stack talent.',
-    name: 'Sarah Johnson',
-    title: 'CEO, TechStart',
+    name: 'Vinay Soni',
+    title: 'Owner, Durga Jwellers',
   },
   {
     quote:
       'One of the most reliable engineers I have worked with. He turned a vague idea into a polished product and owned every layer of the stack with confidence.',
-    name: 'Michael Chen',
-    title: 'Product Lead, Finova',
+    name: 'Vishnu Saini',
+    title: 'Owner, AV CREATION',
   },
   {
     quote:
       'Beautiful UI, rock-solid backend, and clean, documented code. Dheeraj communicates clearly and ships fast. We rehired him for two more projects.',
-    name: 'Aisha Rahman',
-    title: 'Founder, Lumina Studio',
+    name: 'Aman Yadav',
+    title: 'Founder, Chat-App',
   },
 ]
 
