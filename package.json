@@ -9,13 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-three/drei": "^9.112.0",
+    "@react-three/fiber": "^8.17.7",
     "framer-motion": "^11.3.28",
     "lenis": "^1.1.13",
     "lucide-react": "^0.436.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "@react-three/fiber": "^8.17.7",
-    "@react-three/drei": "^9.112.0",
     "three": "^0.168.0"
   },
   "devDependencies": {

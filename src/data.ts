@@ -8,7 +8,7 @@ export const profile = {
   phone: '+91 6350695920',
   blurb:
     'A passionate full stack developer crafting fast, accessible and delightful digital products with modern technologies — from pixel-perfect front-ends to robust APIs.',
-  resumeUrl: '#',
+  resumeUrl: '/resume.pdf',
   socials: {
     github: 'https://github.com/dheerajtanwarx/',
     linkedin: 'https://www.linkedin.com/in/dheerajtanwarx/',

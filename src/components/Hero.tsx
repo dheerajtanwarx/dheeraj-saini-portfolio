@@ -42,7 +42,13 @@ export default function Hero() {
             <a href="#work" className="btn-primary">
               View My Work <ArrowUpRight size={16} />
             </a>
-            <a href={profile.resumeUrl} className="btn-ghost">
+            <a
+              href={profile.resumeUrl}
+              download="Dheeraj-Tanwar-Resume.pdf"
+              target="_blank"
+              rel="noreferrer"
+              className="btn-ghost"
+            >
               Download CV <Download size={16} />
             </a>
           </motion.div>
