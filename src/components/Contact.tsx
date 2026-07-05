@@ -76,7 +76,7 @@ export default function Contact() {
     'w-full rounded-xl border border-border bg-elevated/60 px-4 py-3 text-sm text-fg placeholder:text-muted/70 outline-none transition focus:border-accent focus:ring-2 focus:ring-accent/30'
 
   return (
-    <section id="contact" className="relative py-20 md:py-28">
+    <section id="contact" className="relative overflow-hidden py-20 md:py-28">
       <div className="pointer-events-none absolute inset-0 -z-10">
         <div className="absolute bottom-0 left-1/2 h-80 w-[600px] -translate-x-1/2 rounded-full bg-accent/15 blur-[130px]" />
       </div>

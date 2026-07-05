@@ -83,7 +83,7 @@ export const projects = [
     gradient: 'from-violet-500/30 via-fuchsia-500/20 to-cyan-400/20',
     accent: '#8B5CF6',
     link: 'https://open-chat-coral.vercel.app/',
-    image: '/projects/open-chat.png',
+    image: '/projects/open-chat.webp',
   },
   {
     id: '02',
@@ -94,7 +94,7 @@ export const projects = [
     gradient: 'from-cyan-400/30 via-sky-500/20 to-violet-500/20',
     accent: '#22D3EE',
     link: 'https://www.avcreation.in/',
-    image: '/projects/av-creation.png',
+    image: '/projects/av-creation.webp',
   },
   {
     id: '03',
@@ -105,7 +105,7 @@ export const projects = [
     gradient: 'from-emerald-400/30 via-teal-500/20 to-cyan-400/20',
     accent: '#34D399',
     link: 'https://mera-vyapar.vercel.app/',
-    image: '/projects/mera-vyapar.png',
+    image: '/projects/mera-vyapar.webp',
   },
   {
     id: '04',
@@ -116,7 +116,7 @@ export const projects = [
     gradient: 'from-fuchsia-500/30 via-pink-500/20 to-violet-500/20',
     accent: '#E879F9',
     link: 'https://durga-jewlleres.vercel.app/',
-    image: '/projects/durga-jewellery.png',
+    image: '/projects/durga-jewellery.webp',
   },
 ]
 
