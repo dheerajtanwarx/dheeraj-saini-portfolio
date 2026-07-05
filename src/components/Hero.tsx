@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { ArrowUpRight, Download, Github, Linkedin, Twitter, Sparkles } from 'lucide-react'
+import { ArrowUpRight, Download, Eye, Github, Linkedin, Twitter, Sparkles } from 'lucide-react'
 import { profile, stack } from '../data'
 import { fadeUp, stagger } from '../anim'
 import HeroPhoto from './HeroPhoto'
@@ -44,12 +44,18 @@ export default function Hero() {
             </a>
             <a
               href={profile.resumeUrl}
-              download="Dheeraj-Tanwar-Resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="btn-ghost"
             >
-              Download CV <Download size={16} />
+              View Resume <Eye size={16} />
+            </a>
+            <a
+              href={profile.resumeUrl}
+              download="Dheeraj-Tanwar-Resume.pdf"
+              className="btn-ghost"
+            >
+              Download Resume <Download size={16} />
             </a>
           </motion.div>
 
